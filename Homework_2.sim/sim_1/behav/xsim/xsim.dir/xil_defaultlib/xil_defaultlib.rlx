@@ -1,0 +1,17 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.srcs/sim_1/imports/Downloads/CPUSimulation.v,1715622724,verilog,,,,Project2Test,,,,,,,,
+C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.srcs/sim_1/imports/ExampleSubmission/ArithmeticLogicUnitSystemSimulation.v,1714692105,verilog,,,,ArithmeticLogicUnitSystemSimulation,,,,,,,,
+C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.srcs/sim_1/new/CPUSimFeyza.v,1715713139,verilog,,,,CPUSimFeyza,,,,,,,,
+C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.srcs/sources_1/imports/ExampleSubmission/CPUSystem.v,1715708893,verilog,,C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.srcs/sources_1/imports/Masaüstü/Helper.v,,CPUSystem,,,,,,,,
+C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.srcs/sources_1/imports/Masaüstü/AddressRegisterFile.v,1714692492,verilog,,C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.srcs/sources_1/imports/Masaüstü/ArithmeticLogicUnit.v,,AddressRegisterFile,,,,,,,,
+C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.srcs/sources_1/imports/Masaüstü/ArithmeticLogicUnit.v,1714692492,verilog,,C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.srcs/sources_1/imports/Masaüstü/ArithmeticLogicUnitSystem.v,,ArithmeticLogicUnit,,,,,,,,
+C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.srcs/sources_1/imports/Masaüstü/ArithmeticLogicUnitSystem.v,1714692492,verilog,,C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.srcs/sources_1/imports/ExampleSubmission/CPUSystem.v,,ArithmeticLogicUnitSystem,,,,,,,,
+C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.srcs/sources_1/imports/Masaüstü/Helper.v,1714692492,verilog,,C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.srcs/sources_1/imports/Masaüstü/InstructionRegister.v,,CrystalOscillator;FileOperation,,,,,,,,
+C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.srcs/sources_1/imports/Masaüstü/InstructionRegister.v,1714692492,verilog,,C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.srcs/sources_1/imports/Masaüstü/Memory.v,,InstructionRegister,,,,,,,,
+C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.srcs/sources_1/imports/Masaüstü/Memory.v,1715279913,verilog,,C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.srcs/sources_1/imports/Masaüstü/Register.v,,Memory,,,,,,,,
+C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.srcs/sources_1/imports/Masaüstü/Register.v,1714692493,verilog,,C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.srcs/sources_1/imports/Masaüstü/RegisterFile.v,,Register,,,,,,,,
+C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.srcs/sources_1/imports/Masaüstü/RegisterFile.v,1714692493,verilog,,C:/Users/Asus/OneDrive/Masast/Kodlarm/Homework_2/Homework_2.srcs/sim_1/new/CPUSimFeyza.v,,RegisterFile,,,,,,,,

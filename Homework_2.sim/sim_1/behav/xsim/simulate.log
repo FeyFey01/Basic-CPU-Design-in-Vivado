@@ -1,0 +1,400 @@
+Time resolution is 1 ps
+------------------------------------
+CPUSystem Simulation Started
+Initial
+[PASS] Test No: 0, Component: PC, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 0, Component: AR, Actual Value: 0xxxxx, Expected Value: 0xxxxx
+[PASS] Test No: 0, Component: SP, Actual Value: 0xxxxx, Expected Value: 0xxxxx
+[PASS] Test No: 0, Component: R1, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 0, Component: R2, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 0, Component: R3, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 0, Component: R4, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 0, Component: Flag_O, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 0, Component: Flag_C, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 0, Component: Flag_N, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 0, Component: Flag_Z, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 0, Component: Memory, Actual Value: 0x000c, Expected Value: 0x000c
+CPUSystem Simulation Finished
+0 Test Failed
+12 Test Passed
+------------------------------------
+------------------------------------
+CPUSystem Simulation Started
+BRA PC 16
+[PASS] Test No: 1, Component: PC, Actual Value: 0x000e, Expected Value: 0x000e
+[PASS] Test No: 1, Component: AR, Actual Value: 0xxxxx, Expected Value: 0xxxxx
+[PASS] Test No: 1, Component: SP, Actual Value: 0xxxxx, Expected Value: 0xxxxx
+[PASS] Test No: 1, Component: R1, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 1, Component: R2, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 1, Component: R3, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 1, Component: R4, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 1, Component: Flag_O, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 1, Component: Flag_C, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 1, Component: Flag_N, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 1, Component: Flag_Z, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 1, Component: Memory, Actual Value: 0x000c, Expected Value: 0x000c
+CPUSystem Simulation Finished
+0 Test Failed
+24 Test Passed
+------------------------------------
+------------------------------------
+CPUSystem Simulation Started
+MOVL R1 127 Decimal
+[PASS] Test No: 2, Component: PC, Actual Value: 0x0010, Expected Value: 0x0010
+[PASS] Test No: 2, Component: AR, Actual Value: 0xxxxx, Expected Value: 0xxxxx
+[PASS] Test No: 2, Component: SP, Actual Value: 0xxxxx, Expected Value: 0xxxxx
+[PASS] Test No: 2, Component: R1, Actual Value: 0x007f, Expected Value: 0x007f
+[PASS] Test No: 2, Component: R2, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 2, Component: R3, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 2, Component: R4, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 2, Component: Flag_O, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 2, Component: Flag_C, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 2, Component: Flag_N, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 2, Component: Flag_Z, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 2, Component: Memory, Actual Value: 0x000c, Expected Value: 0x000c
+CPUSystem Simulation Finished
+0 Test Failed
+36 Test Passed
+------------------------------------
+------------------------------------
+CPUSystem Simulation Started
+MOVH R1 0 Decimal
+[PASS] Test No: 3, Component: PC, Actual Value: 0x0012, Expected Value: 0x0012
+[PASS] Test No: 3, Component: AR, Actual Value: 0xxxxx, Expected Value: 0xxxxx
+[PASS] Test No: 3, Component: SP, Actual Value: 0xxxxx, Expected Value: 0xxxxx
+[PASS] Test No: 3, Component: R1, Actual Value: 0x007f, Expected Value: 0x007f
+[PASS] Test No: 3, Component: R2, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 3, Component: R3, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 3, Component: R4, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 3, Component: Flag_O, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 3, Component: Flag_N, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 3, Component: Flag_C, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 3, Component: Flag_Z, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 3, Component: Memory, Actual Value: 0x000c, Expected Value: 0x000c
+CPUSystem Simulation Finished
+0 Test Failed
+48 Test Passed
+------------------------------------
+------------------------------------
+CPUSystem Simulation Started
+MOVS 
+[PASS] Test No: 4, Component: PC, Actual Value: 0x0014, Expected Value: 0x0014
+[PASS] Test No: 4, Component: AR, Actual Value: 0xxxxx, Expected Value: 0xxxxx
+[PASS] Test No: 4, Component: SP, Actual Value: 0x007f, Expected Value: 0x007f
+[PASS] Test No: 4, Component: R1, Actual Value: 0x007f, Expected Value: 0x007f
+[PASS] Test No: 4, Component: R2, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 4, Component: R3, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 4, Component: R4, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 4, Component: Flag_O, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 4, Component: Flag_N, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 4, Component: Flag_C, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 4, Component: Flag_Z, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 4, Component: Memory, Actual Value: 0x000c, Expected Value: 0x000c
+CPUSystem Simulation Finished
+0 Test Failed
+60 Test Passed
+------------------------------------
+------------------------------------
+CPUSystem Simulation Started
+PSH R1 -> M[SP]
+[PASS] Test No: 5, Component: PC, Actual Value: 0x0016, Expected Value: 0x0016
+[PASS] Test No: 5, Component: AR, Actual Value: 0xxxxx, Expected Value: 0xxxxx
+[PASS] Test No: 5, Component: SP, Actual Value: 0x007d, Expected Value: 0x007d
+[PASS] Test No: 5, Component: R1, Actual Value: 0x007f, Expected Value: 0x007f
+[PASS] Test No: 5, Component: R2, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 5, Component: R3, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 5, Component: R4, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 5, Component: Flag_O, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 5, Component: Flag_N, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 5, Component: Flag_C, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 5, Component: Flag_Z, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 5, Component: Memory, Actual Value: 0x007f, Expected Value: 0x007f
+CPUSystem Simulation Finished
+0 Test Failed
+72 Test Passed
+------------------------------------
+------------------------------------
+CPUSystem Simulation Started
+INC SP
+[PASS] Test No: 6, Component: PC, Actual Value: 0x0018, Expected Value: 0x0018
+[PASS] Test No: 6, Component: AR, Actual Value: 0xxxxx, Expected Value: 0xxxxx
+[PASS] Test No: 6, Component: SP, Actual Value: 0x007e, Expected Value: 0x007e
+[PASS] Test No: 6, Component: R1, Actual Value: 0x007f, Expected Value: 0x007f
+[PASS] Test No: 6, Component: R2, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 6, Component: R3, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 6, Component: R4, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 6, Component: Flag_O, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 6, Component: Flag_N, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 6, Component: Flag_C, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 6, Component: Flag_Z, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 6, Component: Memory, Actual Value: 0x007f, Expected Value: 0x007f
+CPUSystem Simulation Finished
+0 Test Failed
+84 Test Passed
+------------------------------------
+------------------------------------
+CPUSystem Simulation Started
+POP M[SP] -> R2
+[PASS] Test No: 7, Component: PC, Actual Value: 0x001a, Expected Value: 0x001a
+[PASS] Test No: 7, Component: AR, Actual Value: 0xxxxx, Expected Value: 0xxxxx
+[PASS] Test No: 7, Component: SP, Actual Value: 0x0080, Expected Value: 0x0080
+[PASS] Test No: 7, Component: R1, Actual Value: 0x007f, Expected Value: 0x007f
+[PASS] Test No: 7, Component: R2, Actual Value: 0x007f, Expected Value: 0x007f
+[PASS] Test No: 7, Component: R3, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 7, Component: R4, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 7, Component: Flag_O, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 7, Component: Flag_N, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 7, Component: Flag_C, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 7, Component: Flag_Z, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 7, Component: Memory, Actual Value: 0x007f, Expected Value: 0x007f
+CPUSystem Simulation Finished
+0 Test Failed
+96 Test Passed
+------------------------------------
+------------------------------------
+CPUSystem Simulation Started
+LDRIM R3 = 16'h0011
+[PASS] Test No: 8, Component: PC, Actual Value: 0x001c, Expected Value: 0x001c
+[PASS] Test No: 8, Component: AR, Actual Value: 0xxxxx, Expected Value: 0xxxxx
+[PASS] Test No: 8, Component: SP, Actual Value: 0x0080, Expected Value: 0x0080
+[PASS] Test No: 8, Component: R1, Actual Value: 0x007f, Expected Value: 0x007f
+[PASS] Test No: 8, Component: R2, Actual Value: 0x007f, Expected Value: 0x007f
+[PASS] Test No: 8, Component: R3, Actual Value: 0x0011, Expected Value: 0x0011
+[PASS] Test No: 8, Component: R4, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 8, Component: Flag_O, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 8, Component: Flag_N, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 8, Component: Flag_C, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 8, Component: Flag_Z, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 8, Component: Memory, Actual Value: 0x007f, Expected Value: 0x007f
+CPUSystem Simulation Finished
+0 Test Failed
+108 Test Passed
+------------------------------------
+------------------------------------
+CPUSystem Simulation Started
+LDRIM R4 = 16'h00FF
+[PASS] Test No: 9, Component: PC, Actual Value: 0x001e, Expected Value: 0x001e
+[PASS] Test No: 9, Component: AR, Actual Value: 0xxxxx, Expected Value: 0xxxxx
+[PASS] Test No: 9, Component: SP, Actual Value: 0x0080, Expected Value: 0x0080
+[PASS] Test No: 9, Component: R1, Actual Value: 0x007f, Expected Value: 0x007f
+[PASS] Test No: 9, Component: R2, Actual Value: 0x007f, Expected Value: 0x007f
+[PASS] Test No: 9, Component: R3, Actual Value: 0x0011, Expected Value: 0x0011
+[PASS] Test No: 9, Component: R4, Actual Value: 0x00ff, Expected Value: 0x00ff
+[PASS] Test No: 9, Component: Flag_O, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 9, Component: Flag_N, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 9, Component: Flag_C, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 9, Component: Flag_Z, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 9, Component: Memory, Actual Value: 0x007f, Expected Value: 0x007f
+CPUSystem Simulation Finished
+0 Test Failed
+120 Test Passed
+------------------------------------
+------------------------------------
+CPUSystem Simulation Started
+DEC R2
+[PASS] Test No: 10, Component: PC, Actual Value: 0x0020, Expected Value: 0x0020
+[PASS] Test No: 10, Component: AR, Actual Value: 0xxxxx, Expected Value: 0xxxxx
+[PASS] Test No: 10, Component: SP, Actual Value: 0x0080, Expected Value: 0x0080
+[PASS] Test No: 10, Component: R1, Actual Value: 0x007f, Expected Value: 0x007f
+[PASS] Test No: 10, Component: R2, Actual Value: 0x007e, Expected Value: 0x007e
+[PASS] Test No: 10, Component: R3, Actual Value: 0x0011, Expected Value: 0x0011
+[PASS] Test No: 10, Component: R4, Actual Value: 0x00ff, Expected Value: 0x00ff
+[PASS] Test No: 10, Component: Flag_O, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 10, Component: Flag_N, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 10, Component: Flag_C, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 10, Component: Flag_Z, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 10, Component: Memory, Actual Value: 0x007f, Expected Value: 0x007f
+CPUSystem Simulation Finished
+0 Test Failed
+132 Test Passed
+------------------------------------
+------------------------------------
+CPUSystem Simulation Started
+MOVH FF -> R4
+[PASS] Test No: 11, Component: PC, Actual Value: 0x0022, Expected Value: 0x0022
+[PASS] Test No: 11, Component: AR, Actual Value: 0xxxxx, Expected Value: 0xxxxx
+[PASS] Test No: 11, Component: SP, Actual Value: 0x0080, Expected Value: 0x0080
+[PASS] Test No: 11, Component: R1, Actual Value: 0x007f, Expected Value: 0x007f
+[PASS] Test No: 11, Component: R2, Actual Value: 0x007e, Expected Value: 0x007e
+[PASS] Test No: 11, Component: R3, Actual Value: 0x0011, Expected Value: 0x0011
+[PASS] Test No: 11, Component: R4, Actual Value: 0xffff, Expected Value: 0xffff
+[PASS] Test No: 11, Component: Flag_O, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 11, Component: Flag_N, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 11, Component: Flag_C, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 11, Component: Flag_Z, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 11, Component: Memory, Actual Value: 0x007f, Expected Value: 0x007f
+CPUSystem Simulation Finished
+0 Test Failed
+144 Test Passed
+------------------------------------
+------------------------------------
+CPUSystem Simulation Started
+ADD R3 + R4 = R1
+[PASS] Test No: 12, Component: PC, Actual Value: 0x0024, Expected Value: 0x0024
+[PASS] Test No: 12, Component: AR, Actual Value: 0xxxxx, Expected Value: 0xxxxx
+[PASS] Test No: 12, Component: SP, Actual Value: 0x0080, Expected Value: 0x0080
+[PASS] Test No: 12, Component: R1, Actual Value: 0x0010, Expected Value: 0x0010
+[PASS] Test No: 12, Component: R2, Actual Value: 0x007e, Expected Value: 0x007e
+[PASS] Test No: 12, Component: R3, Actual Value: 0x0011, Expected Value: 0x0011
+[PASS] Test No: 12, Component: R4, Actual Value: 0xffff, Expected Value: 0xffff
+[PASS] Test No: 12, Component: Flag_O, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 12, Component: Flag_N, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 12, Component: Flag_C, Actual Value: 0x000X, Expected Value: 0x000X
+[PASS] Test No: 12, Component: Flag_Z, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 12, Component: Memory, Actual Value: 0x007f, Expected Value: 0x007f
+CPUSystem Simulation Finished
+0 Test Failed
+156 Test Passed
+------------------------------------
+------------------------------------
+CPUSystem Simulation Started
+ADDS R3 + R4 = R1
+[PASS] Test No: 13, Component: PC, Actual Value: 0x0026, Expected Value: 0x0026
+[PASS] Test No: 13, Component: AR, Actual Value: 0xxxxx, Expected Value: 0xxxxx
+[PASS] Test No: 13, Component: SP, Actual Value: 0x0080, Expected Value: 0x0080
+[PASS] Test No: 13, Component: R1, Actual Value: 0x0010, Expected Value: 0x0010
+[PASS] Test No: 13, Component: R2, Actual Value: 0x007e, Expected Value: 0x007e
+[PASS] Test No: 13, Component: R3, Actual Value: 0x0011, Expected Value: 0x0011
+[PASS] Test No: 13, Component: R4, Actual Value: 0xffff, Expected Value: 0xffff
+[PASS] Test No: 13, Component: Flag_O, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 13, Component: Flag_N, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 13, Component: Flag_C, Actual Value: 0x0001, Expected Value: 0x0001
+[PASS] Test No: 13, Component: Flag_Z, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 13, Component: Memory, Actual Value: 0x007f, Expected Value: 0x007f
+CPUSystem Simulation Finished
+0 Test Failed
+168 Test Passed
+------------------------------------
+------------------------------------
+CPUSystem Simulation Started
+LDRIM R2 <- 2E
+[PASS] Test No: 14, Component: PC, Actual Value: 0x0028, Expected Value: 0x0028
+[PASS] Test No: 14, Component: AR, Actual Value: 0xxxxx, Expected Value: 0xxxxx
+[PASS] Test No: 14, Component: SP, Actual Value: 0x0080, Expected Value: 0x0080
+[PASS] Test No: 14, Component: R1, Actual Value: 0x0010, Expected Value: 0x0010
+[PASS] Test No: 14, Component: R2, Actual Value: 0x002e, Expected Value: 0x002e
+[PASS] Test No: 14, Component: R3, Actual Value: 0x0011, Expected Value: 0x0011
+[PASS] Test No: 14, Component: R4, Actual Value: 0xffff, Expected Value: 0xffff
+[PASS] Test No: 14, Component: Flag_O, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 14, Component: Flag_N, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 14, Component: Flag_C, Actual Value: 0x0001, Expected Value: 0x0001
+[PASS] Test No: 14, Component: Flag_Z, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 14, Component: Memory, Actual Value: 0x007f, Expected Value: 0x007f
+CPUSystem Simulation Finished
+0 Test Failed
+180 Test Passed
+------------------------------------
+------------------------------------
+CPUSystem Simulation Started
+BX M[SP] ? PC, PC ? R2
+[PASS] Test No: 15, Component: PC, Actual Value: 0x002e, Expected Value: 0x002e
+[PASS] Test No: 15, Component: AR, Actual Value: 0xxxxx, Expected Value: 0xxxxx
+[PASS] Test No: 15, Component: SP, Actual Value: 0x0082, Expected Value: 0x0082
+[PASS] Test No: 15, Component: R1, Actual Value: 0x0010, Expected Value: 0x0010
+[PASS] Test No: 15, Component: R2, Actual Value: 0x002e, Expected Value: 0x002e
+[PASS] Test No: 15, Component: R3, Actual Value: 0x0011, Expected Value: 0x0011
+[PASS] Test No: 15, Component: R4, Actual Value: 0xffff, Expected Value: 0xffff
+[PASS] Test No: 15, Component: Flag_O, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 15, Component: Flag_N, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 15, Component: Flag_C, Actual Value: 0x0001, Expected Value: 0x0001
+[PASS] Test No: 15, Component: Flag_Z, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 15, Component: Memory, Actual Value: 0x002a, Expected Value: 0x002a
+CPUSystem Simulation Finished
+0 Test Failed
+192 Test Passed
+------------------------------------
+------------------------------------
+CPUSystem Simulation Started
+LDRIM R1 <- 19 DECÝMAL
+[PASS] Test No: 16, Component: PC, Actual Value: 0x0030, Expected Value: 0x0030
+[PASS] Test No: 16, Component: AR, Actual Value: 0xxxxx, Expected Value: 0xxxxx
+[PASS] Test No: 16, Component: SP, Actual Value: 0x0082, Expected Value: 0x0082
+[PASS] Test No: 16, Component: R1, Actual Value: 0x0013, Expected Value: 0x0013
+[PASS] Test No: 16, Component: R2, Actual Value: 0x002e, Expected Value: 0x002e
+[PASS] Test No: 16, Component: R3, Actual Value: 0x0011, Expected Value: 0x0011
+[PASS] Test No: 16, Component: R4, Actual Value: 0xffff, Expected Value: 0xffff
+[PASS] Test No: 16, Component: Flag_O, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 16, Component: Flag_N, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 16, Component: Flag_C, Actual Value: 0x0001, Expected Value: 0x0001
+[PASS] Test No: 16, Component: Flag_Z, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 16, Component: Memory, Actual Value: 0x002a, Expected Value: 0x002a
+CPUSystem Simulation Finished
+0 Test Failed
+204 Test Passed
+------------------------------------
+------------------------------------
+CPUSystem Simulation Started
+MOVS R1 -> AR
+[PASS] Test No: 17, Component: PC, Actual Value: 0x0032, Expected Value: 0x0032
+[PASS] Test No: 17, Component: AR, Actual Value: 0x0013, Expected Value: 0x0013
+[PASS] Test No: 17, Component: SP, Actual Value: 0x0082, Expected Value: 0x0082
+[PASS] Test No: 17, Component: R1, Actual Value: 0x0013, Expected Value: 0x0013
+[PASS] Test No: 17, Component: R2, Actual Value: 0x002e, Expected Value: 0x002e
+[PASS] Test No: 17, Component: R3, Actual Value: 0x0011, Expected Value: 0x0011
+[PASS] Test No: 17, Component: R4, Actual Value: 0xffff, Expected Value: 0xffff
+[PASS] Test No: 17, Component: Flag_O, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 17, Component: Flag_N, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 17, Component: Flag_C, Actual Value: 0x0001, Expected Value: 0x0001
+[PASS] Test No: 17, Component: Flag_Z, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 17, Component: Memory, Actual Value: 0x002a, Expected Value: 0x002a
+CPUSystem Simulation Finished
+0 Test Failed
+216 Test Passed
+------------------------------------
+------------------------------------
+CPUSystem Simulation Started
+LDR M[AR] -> R2
+[PASS] Test No: 18, Component: PC, Actual Value: 0x0034, Expected Value: 0x0034
+[PASS] Test No: 18, Component: AR, Actual Value: 0x0013, Expected Value: 0x0013
+[PASS] Test No: 18, Component: SP, Actual Value: 0x0082, Expected Value: 0x0082
+[PASS] Test No: 18, Component: R1, Actual Value: 0x0013, Expected Value: 0x0013
+[PASS] Test No: 18, Component: R2, Actual Value: 0x0062, Expected Value: 0x0062
+[PASS] Test No: 18, Component: R3, Actual Value: 0x0011, Expected Value: 0x0011
+[PASS] Test No: 18, Component: R4, Actual Value: 0xffff, Expected Value: 0xffff
+[PASS] Test No: 18, Component: Flag_O, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 18, Component: Flag_N, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 18, Component: Flag_C, Actual Value: 0x0001, Expected Value: 0x0001
+[PASS] Test No: 18, Component: Flag_Z, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 18, Component: Memory, Actual Value: 0x0062, Expected Value: 0x0062
+CPUSystem Simulation Finished
+0 Test Failed
+228 Test Passed
+------------------------------------
+------------------------------------
+CPUSystem Simulation Started
+INC R2
+[PASS] Test No: 19, Component: PC, Actual Value: 0x0036, Expected Value: 0x0036
+[PASS] Test No: 19, Component: AR, Actual Value: 0x0013, Expected Value: 0x0013
+[PASS] Test No: 19, Component: SP, Actual Value: 0x0082, Expected Value: 0x0082
+[PASS] Test No: 19, Component: R1, Actual Value: 0x0013, Expected Value: 0x0013
+[PASS] Test No: 19, Component: R2, Actual Value: 0x0063, Expected Value: 0x0063
+[PASS] Test No: 19, Component: R3, Actual Value: 0x0011, Expected Value: 0x0011
+[PASS] Test No: 19, Component: R4, Actual Value: 0xffff, Expected Value: 0xffff
+[PASS] Test No: 19, Component: Flag_O, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 19, Component: Flag_N, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 19, Component: Flag_C, Actual Value: 0x0001, Expected Value: 0x0001
+[PASS] Test No: 19, Component: Flag_Z, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 19, Component: Memory, Actual Value: 0x0062, Expected Value: 0x0062
+CPUSystem Simulation Finished
+0 Test Failed
+240 Test Passed
+------------------------------------
+------------------------------------
+CPUSystem Simulation Started
+STR R2 -> M[AR]
+[PASS] Test No: 20, Component: PC, Actual Value: 0x0038, Expected Value: 0x0038
+[PASS] Test No: 20, Component: AR, Actual Value: 0x0013, Expected Value: 0x0013
+[PASS] Test No: 20, Component: SP, Actual Value: 0x0082, Expected Value: 0x0082
+[PASS] Test No: 20, Component: R1, Actual Value: 0x0013, Expected Value: 0x0013
+[PASS] Test No: 20, Component: R2, Actual Value: 0x0063, Expected Value: 0x0063
+[PASS] Test No: 20, Component: R3, Actual Value: 0x0011, Expected Value: 0x0011
+[PASS] Test No: 20, Component: R4, Actual Value: 0xffff, Expected Value: 0xffff
+[PASS] Test No: 20, Component: Flag_O, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 20, Component: Flag_N, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 20, Component: Flag_C, Actual Value: 0x0001, Expected Value: 0x0001
+[PASS] Test No: 20, Component: Flag_Z, Actual Value: 0x0000, Expected Value: 0x0000
+[PASS] Test No: 20, Component: Memory, Actual Value: 0x0063, Expected Value: 0x0063
+CPUSystem Simulation Finished
+0 Test Failed
+252 Test Passed
+------------------------------------

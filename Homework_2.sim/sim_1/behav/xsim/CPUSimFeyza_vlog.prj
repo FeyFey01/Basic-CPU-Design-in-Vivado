@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Homework_2.srcs/sources_1/imports/Masaüstü/AddressRegisterFile.v" \
+"../../../../Homework_2.srcs/sources_1/imports/Masaüstü/ArithmeticLogicUnit.v" \
+"../../../../Homework_2.srcs/sources_1/imports/Masaüstü/ArithmeticLogicUnitSystem.v" \
+"../../../../Homework_2.srcs/sources_1/imports/ExampleSubmission/CPUSystem.v" \
+"../../../../Homework_2.srcs/sources_1/imports/Masaüstü/Helper.v" \
+"../../../../Homework_2.srcs/sources_1/imports/Masaüstü/InstructionRegister.v" \
+"../../../../Homework_2.srcs/sources_1/imports/Masaüstü/Memory.v" \
+"../../../../Homework_2.srcs/sources_1/imports/Masaüstü/Register.v" \
+"../../../../Homework_2.srcs/sources_1/imports/Masaüstü/RegisterFile.v" \
+"../../../../Homework_2.srcs/sim_1/new/CPUSimFeyza.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
