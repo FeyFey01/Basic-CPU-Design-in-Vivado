@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Project2Test_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Project2Test" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,814.929 ns"></ZoomEndTime>
+      <Cursor1Time time="296.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="162"></NameColumnWidth>
+      <ValueColumnWidth column_width="81"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/Project2Test/Clock" type="logic">
+      <obj_property name="ElementShortName">Clock</obj_property>
+      <obj_property name="ObjectShortName">Clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Test/Reset" type="logic">
+      <obj_property name="ElementShortName">Reset</obj_property>
+      <obj_property name="ObjectShortName">Reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Test/Tx" type="array">
+      <obj_property name="ElementShortName">Tx[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Tx[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Test/_CPUSystem/RF_OutASel" type="array">
+      <obj_property name="ElementShortName">RF_OutASel[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RF_OutASel[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Test/_CPUSystem/RF_OutBSel" type="array">
+      <obj_property name="ElementShortName">RF_OutBSel[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RF_OutBSel[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Test/_CPUSystem/RSEL" type="array">
+      <obj_property name="ElementShortName">RSEL[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RSEL[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Test/_CPUSystem/SREG1" type="array">
+      <obj_property name="ElementShortName">SREG1[2:0]</obj_property>
+      <obj_property name="ObjectShortName">SREG1[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Test/_CPUSystem/SREG2" type="array">
+      <obj_property name="ElementShortName">SREG2[2:0]</obj_property>
+      <obj_property name="ObjectShortName">SREG2[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Test/_CPUSystem/_ALUSystem/ALU_FunSel" type="array">
+      <obj_property name="ElementShortName">ALU_FunSel[4:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_FunSel[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Test/_CPUSystem/_ALUSystem/OutA" type="array">
+      <obj_property name="ElementShortName">OutA[15:0]</obj_property>
+      <obj_property name="ObjectShortName">OutA[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Test/_CPUSystem/_ALUSystem/OutB" type="array">
+      <obj_property name="ElementShortName">OutB[15:0]</obj_property>
+      <obj_property name="ObjectShortName">OutB[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Test/_CPUSystem/_ALUSystem/ALUOut" type="array">
+      <obj_property name="ElementShortName">ALUOut[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUOut[15:0]</obj_property>
+   </wvobject>
+</wave_config>
